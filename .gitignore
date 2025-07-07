@@ -4,3 +4,11 @@ __pycache__/
 .DS_Store
 data/
 .env
+
+
+# Ignore everything inside data folder
+/data/*
+
+# But do NOT ignore sample_data folder and its contents
+!data/sample_data/
+!data/sample_data/**
