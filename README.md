@@ -10,7 +10,7 @@ Core Capabilities:
 - Works with commercial wearable devices (tested with MetaMotion sensors)
 
 ## 🔥 Key Features
-- **99.6% exercise recognition** (Random Forest on 5 exercise types)
+- **90%+ exercise recognition** (Random Forest on 5 exercise types)
 - **Achieved a mean squared error (MSE) of 0.88** in predicting exercise repetition counts using accelerometer and gyroscope data
 - **48 engineered features**:
   - Frequency-domain analysis (FFT with 1.429Hz resolution)
